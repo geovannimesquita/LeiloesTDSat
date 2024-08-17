@@ -1,0 +1,21 @@
+$ git branch melhorias
+
+$ git switch melhorias
+
+$ git add .
+
+$ git commit -m "Adicionando o botão vender"
+
+$ git push origin melhorias
+
+$ git add .
+
+$ git commit -m "Adicionando a tela de vendas"
+
+$ git push origin melhorias
+
+$ git add .
+
+$ git commit -m "Implementação do filtro para listar itens vendidos"
+
+$ git push origin melhorias
